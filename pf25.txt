@@ -1,0 +1,2 @@
+192.168.15.1:8090 admin royal@local
+192.168.5.1:8090 admin office@local

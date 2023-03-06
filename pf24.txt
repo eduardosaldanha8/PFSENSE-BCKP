@@ -1,0 +1,15 @@
+192.168.31.1:8090 admin mit20@adm
+192.168.16.1:8090 admin mit@local
+192.168.1.9:8899 suporte mit20@adm
+192.168.79.1:8899 admin nis@local
+192.168.72.1:8090 admin nis@local
+192.168.34.1:8090 admin nis@local
+192.168.35.1:8090 admin nis@local
+https://192.168.9.250:8090/ admin nis@local
+https://192.168.73.1:8090 admin nis@local
+http://192.168.77.1:8090/ admin nis@local
+192.168.78.1:8090 admin nis@local
+192.168.100.1:8090 admin nis@local
+192.168.200.1 admin nis@local
+192.168.13.1:8090 admin nis@local
+192.168.14.1:8090 admin mega@local
