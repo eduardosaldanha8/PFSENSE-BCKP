@@ -1,2 +1,2 @@
 # PFSENSE-BCKP
- Backup pfsense revendas 
+ Backup pfsense revendas gerais
